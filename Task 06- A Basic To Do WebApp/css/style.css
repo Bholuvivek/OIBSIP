@@ -1,0 +1,22 @@
+body {
+    background-image:
+        linear-gradient(rgba(23, 24, 34, 0.600),
+            rgba(23, 24, 34, 0.600)),
+        url('../images/water-blue.jpg');
+}
+
+.title-head {
+    color: white;
+}
+
+.desc-head {
+    color: rgb(166, 150, 150);
+}
+
+.del-head {
+    color: white;
+}
+
+hr {
+    border-top: 1px solid rgb(193, 228, 35);
+}

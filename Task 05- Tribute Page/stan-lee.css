@@ -1,0 +1,198 @@
+h1{
+    text-align: center;
+    font-size: 500%;
+    color: aliceblue;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+    background-color: black;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    box-shadow: 5px 5px rgb(80,80,80);
+    
+}
+ 
+#Short {
+        text-align: center;
+        font-size: 120%;
+        font-style: italic;
+        margin-top: 10px;
+        color: aliceblue;
+}
+
+body{
+    
+    background-image: url(abstract-background-biology-1426718.jpg);
+}
+
+.image{
+        margin-left: 115px;
+        margin-right: 155px;
+        margin-top: 35px;
+        width: 1000px;
+}
+div{
+        background-color: rgb(30,30,30);
+        margin-left: 50px;
+        margin-right: 50px;
+        border-radius: 30px 30px 30px 30px;
+        padding-bottom: 30px;
+        padding-left: 10px;
+        padding-right: 10px;
+}
+h2{
+       text-align: center;
+        font-size: 170%;
+        color: aliceblue;
+        padding-top: 5px;
+        margin-top: 15px;
+        padding-bottom: 5px;
+        
+    
+        
+}
+#paragraph{
+            padding-bottom: 0px;
+            margin-right: 500px;
+            margin-left: 500px;
+            margin-top: 50px;
+            
+            
+}
+#paragraph:hover{
+                    box-shadow: 5px 5px rgb(80,80,80);
+                   
+                    
+}
+
+#spinner{
+            margin-left: 625px;
+            margin-top: 50px;
+            font-size: 500%;
+}
+
+#bio{
+        font-weight: bolder;
+        font-style: normal;
+        text-align: justify;
+        font-size: 200%;
+}
+a:link{
+        color: blue;
+}
+a:hover{
+            color: blue;
+}
+#achieve{
+            font-size: 300%;
+            color: white;
+            font-weight: bolder;
+            
+            
+            
+}
+
+#biograph{
+            font-size: 300%;
+            font-weight: bolder;
+}
+
+li{
+       
+        margin-left: 50px;
+        font-size: 200%;
+        font-weight: 700;
+}
+
+hr{
+    display: block;
+    border-width: medium;
+    border-color: black;
+    margin-top: 1px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+
+.fa-quote-left{
+                    font-size: 300%;
+                    color: chartreuse;
+                    
+}
+#quote{
+            font-style: italic;
+            font-size: 200%;
+            margin-left: 200px;
+            color: antiquewhite;
+            padding-top: 20px;
+}
+
+.fa-quote-right{
+                    font-size: 300%;
+                    color: chartreuse;
+}
+
+
+#quotes{
+            padding-top: 50px;
+}
+
+#quote2{
+            margin-top: 30px;
+            padding-top: 50px;
+}
+#quote3{
+            margin-top: 30px;
+            padding-top: 50px;
+}
+
+#spidey{
+            font-size: 300%;
+            color: red;
+            margin-top: 50px;
+            padding-top: 50px;
+}
+
+
+.spider{
+           display: inline-block;
+            margin-left: 50px;
+            width: 500px;
+}
+            
+#stan-spider{
+                height: 665px;
+}
+
+#bios{
+        font-weight: bolder;
+        font-style: normal;
+        text-align: justify;
+        font-size: 150%;
+        color: antiquewhite;
+}
+
+#ending{
+            background-color: rgb(30,30,30);
+            margin-left: 0px;
+            margin-right: 0px;
+            border-radius: 0px 0px 0px 0px;
+            margin-top: 10px;
+            height: 100px;
+}
+
+#instagram{
+                color: crimson;
+                font-size: 300%;
+                margin-left: 200px;
+                margin-top: 40px;
+}
+
+#instagram:hover{
+                    box-shadow: 10px 10px rgb(0,0,0);
+                    opacity: 0.7;
+}
+
